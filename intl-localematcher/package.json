@@ -1,30 +1,4 @@
 {
-	"_from": "@smartface/intl-localematcher@0.2.21",
-	"_id": "@smartface/intl-localematcher@0.2.21",
-	"_inBundle": false,
-	"_integrity": "sha512-JTJeLiNwexN4Gy0cMxoUPvJbKhXdnSuo5jPrDafEZpnDWlJ5VDYta8zUVVozO/pwzEmFVHEUpgiEDj+39L4oMg==",
-	"_location": "/@smartface/intl-localematcher",
-	"_phantomChildren": {},
-	"_requested": {
-		"type": "version",
-		"registry": true,
-		"raw": "@smartface/intl-localematcher@0.2.21",
-		"name": "@smartface/intl-localematcher",
-		"escapedName": "@smartface%2fintl-localematcher",
-		"scope": "@smartface",
-		"rawSpec": "0.2.21",
-		"saveSpec": null,
-		"fetchSpec": "0.2.21"
-	},
-	"_requiredBy": [
-		"/@smartface/ecma402-abstract",
-		"/@smartface/intl-displaynames",
-		"/@smartface/intl-listformat"
-	],
-	"_resolved": "https://registry.npmjs.org/@smartface/intl-localematcher/-/intl-localematcher-0.2.21.tgz",
-	"_shasum": "39ef33d701fe8084f3d693cd3ff7cbe03cdd3a49",
-	"_spec": "@smartface/intl-localematcher@0.2.21",
-	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts\\node_modules\\@smartface\\ecma402-abstract",
 	"author": {
 		"name": "Long Ho",
 		"email": "holevietlong@gmail.com"

@@ -1,28 +1,4 @@
 {
-	"_from": "@smartface/intl-numberformat@^7.2.6",
-	"_id": "@smartface/intl-numberformat@7.3.0",
-	"_inBundle": false,
-	"_integrity": "sha512-hFWpeutgBtfTvFMMpUk4SNEGw0TPFtG5wMwcF+t/Rkas8aAQksN9ESpO311yisZ9xCKw9mAKF6q4k285Hsx6Pg==",
-	"_location": "/@smartface/intl-numberformat",
-	"_phantomChildren": {},
-	"_requested": {
-		"type": "range",
-		"registry": true,
-		"raw": "@smartface/intl-numberformat@^7.2.6",
-		"name": "@smartface/intl-numberformat",
-		"escapedName": "@smartface%2fintl-numberformat",
-		"scope": "@smartface",
-		"rawSpec": "^7.2.6",
-		"saveSpec": null,
-		"fetchSpec": "^7.2.6"
-	},
-	"_requiredBy": [
-		"/"
-	],
-	"_resolved": "https://registry.npmjs.org/@smartface/intl-numberformat/-/intl-numberformat-7.3.0.tgz",
-	"_shasum": "ce7d0ef8cf84d6863079265d2261a4401939d77e",
-	"_spec": "@smartface/intl-numberformat@^7.2.6",
-	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
 	"bugs": {
 		"url": "https://github.com/formatjs/formatjs/issues"
 	},

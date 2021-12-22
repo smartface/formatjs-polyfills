@@ -1,28 +1,4 @@
 {
-	"_from": "@smartface/intl-relativetimeformat@^9.3.3",
-	"_id": "@smartface/intl-relativetimeformat@9.4.0",
-	"_inBundle": false,
-	"_integrity": "sha512-nDKTZCqp3oDHrteY86H6MaoPO9r4MW0v7SwoGaqvAwbOpKrfOuceAiVIa65/i50DEHLrcXUKpOZnM/fNgCUBHg==",
-	"_location": "/@smartface/intl-relativetimeformat",
-	"_phantomChildren": {},
-	"_requested": {
-		"type": "range",
-		"registry": true,
-		"raw": "@smartface/intl-relativetimeformat@^9.3.3",
-		"name": "@smartface/intl-relativetimeformat",
-		"escapedName": "@smartface%2fintl-relativetimeformat",
-		"scope": "@smartface",
-		"rawSpec": "^9.3.3",
-		"saveSpec": null,
-		"fetchSpec": "^9.3.3"
-	},
-	"_requiredBy": [
-		"/"
-	],
-	"_resolved": "https://registry.npmjs.org/@smartface/intl-relativetimeformat/-/intl-relativetimeformat-9.4.0.tgz",
-	"_shasum": "f34a4d0f096ca4b94b887a53d52ea579af4a3a4f",
-	"_spec": "@smartface/intl-relativetimeformat@^9.3.3",
-	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
 	"author": {
 		"name": "Long Ho",
 		"email": "holevietlong@gmail.com"

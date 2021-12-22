@@ -1,28 +1,4 @@
 {
-	"_from": "@smartface/icu-skeleton-parser@1.3.2",
-	"_id": "@smartface/icu-skeleton-parser@1.3.2",
-	"_inBundle": false,
-	"_integrity": "sha512-ChKmnVCE/LbJzedRgA/EeL5+tfjx/6ZWunqNiEC5BtqHnnwmLN/oPuCPb8b3NhuGiwTqp+LkaS70tga5kXRHxg==",
-	"_location": "/@smartface/icu-skeleton-parser",
-	"_phantomChildren": {},
-	"_requested": {
-		"type": "version",
-		"registry": true,
-		"raw": "@smartface/icu-skeleton-parser@1.3.2",
-		"name": "@smartface/icu-skeleton-parser",
-		"escapedName": "@smartface%2ficu-skeleton-parser",
-		"scope": "@smartface",
-		"rawSpec": "1.3.2",
-		"saveSpec": null,
-		"fetchSpec": "1.3.2"
-	},
-	"_requiredBy": [
-		"/@smartface/icu-messageformat-parser"
-	],
-	"_resolved": "https://registry.npmjs.org/@smartface/icu-skeleton-parser/-/icu-skeleton-parser-1.3.2.tgz",
-	"_shasum": "a8ab9c668ea7f044ceba2043ac1d872d71307e22",
-	"_spec": "@smartface/icu-skeleton-parser@1.3.2",
-	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts\\node_modules\\@smartface\\icu-messageformat-parser",
 	"bugs": {
 		"url": "https://github.com/formatjs/formatjs/issues"
 	},

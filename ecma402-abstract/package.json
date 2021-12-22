@@ -1,33 +1,4 @@
 {
-	"_from": "@smartface/ecma402-abstract@1.11.0",
-	"_id": "@smartface/ecma402-abstract@1.11.0",
-	"_inBundle": false,
-	"_integrity": "sha512-TOp5La9wmSh9G5bqFGN/ApmOXtJDzBGkYW+OTRd3ukY7J32RVGZPpN4O9BD651JUy66nj3g9CIENTNCgm4IRXQ==",
-	"_location": "/@smartface/ecma402-abstract",
-	"_phantomChildren": {},
-	"_requested": {
-		"type": "version",
-		"registry": true,
-		"raw": "@smartface/ecma402-abstract@1.11.0",
-		"name": "@smartface/ecma402-abstract",
-		"escapedName": "@smartface%2fecma402-abstract",
-		"scope": "@smartface",
-		"rawSpec": "1.11.0",
-		"saveSpec": null,
-		"fetchSpec": "1.11.0"
-	},
-	"_requiredBy": [
-		"/@smartface/icu-messageformat-parser",
-		"/@smartface/icu-skeleton-parser",
-		"/@smartface/intl",
-		"/@smartface/intl-displaynames",
-		"/@smartface/intl-listformat",
-		"/intl-messageformat"
-	],
-	"_resolved": "https://registry.npmjs.org/@smartface/ecma402-abstract/-/ecma402-abstract-1.11.0.tgz",
-	"_shasum": "7e91e6cc7cfebdc07171e00a3288719705e0108c",
-	"_spec": "@smartface/ecma402-abstract@1.11.0",
-	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts\\node_modules\\@smartface\\intl",
 	"author": {
 		"name": "Long Ho"
 	},

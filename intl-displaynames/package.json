@@ -1,28 +1,4 @@
 {
-	"_from": "@smartface/intl-displaynames@5.3.0",
-	"_id": "@smartface/intl-displaynames@5.3.0",
-	"_inBundle": false,
-	"_integrity": "sha512-QTwQitgjeExoKEl2TLWOsv3vxdd7tvugwVnT1Bh9RD+fjQXQbOts2crGI65fxlOruCgXVqRp99t5HxyzjX53kw==",
-	"_location": "/@smartface/intl-displaynames",
-	"_phantomChildren": {},
-	"_requested": {
-		"type": "version",
-		"registry": true,
-		"raw": "@smartface/intl-displaynames@5.3.0",
-		"name": "@smartface/intl-displaynames",
-		"escapedName": "@smartface%2fintl-displaynames",
-		"scope": "@smartface",
-		"rawSpec": "5.3.0",
-		"saveSpec": null,
-		"fetchSpec": "5.3.0"
-	},
-	"_requiredBy": [
-		"/@smartface/intl"
-	],
-	"_resolved": "https://registry.npmjs.org/@smartface/intl-displaynames/-/intl-displaynames-5.3.0.tgz",
-	"_shasum": "e042460af49d4b1444853aac482a8fda85bcafe3",
-	"_spec": "@smartface/intl-displaynames@5.3.0",
-	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts\\node_modules\\@smartface\\intl",
 	"author": {
 		"name": "Linjie Ding",
 		"email": "pyrocat101@users.noreply.github.com"
