@@ -1,63 +1,63 @@
 {
-  "_from": "@formatjs/intl-getcanonicallocales@^1.8.0",
-  "_id": "@formatjs/intl-getcanonicallocales@1.8.0",
-  "_inBundle": false,
-  "_integrity": "sha512-nBwLvOaClSPt4UrvNKHuOf3vgQ8ofZ8jS5TB54bKBw1VKe3Rt/omvze/UhiboWFxs3VCWVHswqikHS5UfUq3SA==",
-  "_location": "/@formatjs/intl-getcanonicallocales",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "@formatjs/intl-getcanonicallocales@^1.8.0",
-    "name": "@formatjs/intl-getcanonicallocales",
-    "escapedName": "@formatjs%2fintl-getcanonicallocales",
-    "scope": "@formatjs",
-    "rawSpec": "^1.8.0",
-    "saveSpec": null,
-    "fetchSpec": "^1.8.0"
-  },
-  "_requiredBy": [
-    "/",
-    "/@formatjs/intl-locale"
-  ],
-  "_resolved": "https://registry.npmjs.org/@formatjs/intl-getcanonicallocales/-/intl-getcanonicallocales-1.8.0.tgz",
-  "_shasum": "2987a879f399b2fdf2812e76431f1db8a5b02a64",
-  "_spec": "@formatjs/intl-getcanonicallocales@^1.8.0",
-  "_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
-  "author": {
-    "name": "Long Ho",
-    "email": "holevietlong@gmail.com"
-  },
-  "bugs": {
-    "url": "https://github.com/formatjs/formatjs/issues"
-  },
-  "bundleDependencies": false,
-  "dependencies": {
-    "tslib": "^2.1.0"
-  },
-  "deprecated": false,
-  "description": "Intl.getCanonicalLocales polyfill",
-  "homepage": "https://github.com/formatjs/formatjs#readme",
-  "keywords": [
-    "intl",
-    "locale",
-    "formatjs",
-    "react-intl",
-    "i18n",
-    "ecma402",
-    "tc39",
-    "getCanonicalLocales"
-  ],
-  "license": "MIT",
-  "main": "index.js",
-  "name": "@formatjs/intl-getcanonicallocales",
-  "peerDependencies": {
-    "@types/node": "14 || 16"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/formatjs/formatjs.git"
-  },
-  "types": "index.d.ts",
-  "version": "1.8.0"
+	"_from": "@smartface/intl-getcanonicallocales@^1.8.0",
+	"_id": "@smartface/intl-getcanonicallocales@1.8.0",
+	"_inBundle": false,
+	"_integrity": "sha512-nBwLvOaClSPt4UrvNKHuOf3vgQ8ofZ8jS5TB54bKBw1VKe3Rt/omvze/UhiboWFxs3VCWVHswqikHS5UfUq3SA==",
+	"_location": "/@smartface/intl-getcanonicallocales",
+	"_phantomChildren": {},
+	"_requested": {
+		"type": "range",
+		"registry": true,
+		"raw": "@smartface/intl-getcanonicallocales@^1.8.0",
+		"name": "@smartface/intl-getcanonicallocales",
+		"escapedName": "@smartface%2fintl-getcanonicallocales",
+		"scope": "@smartface",
+		"rawSpec": "^1.8.0",
+		"saveSpec": null,
+		"fetchSpec": "^1.8.0"
+	},
+	"_requiredBy": [
+		"/",
+		"/@smartface/intl-locale"
+	],
+	"_resolved": "https://registry.npmjs.org/@smartface/intl-getcanonicallocales/-/intl-getcanonicallocales-1.8.0.tgz",
+	"_shasum": "2987a879f399b2fdf2812e76431f1db8a5b02a64",
+	"_spec": "@smartface/intl-getcanonicallocales@^1.8.0",
+	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
+	"author": {
+		"name": "Long Ho",
+		"email": "holevietlong@gmail.com"
+	},
+	"bugs": {
+		"url": "https://github.com/formatjs/formatjs/issues"
+	},
+	"bundleDependencies": false,
+	"dependencies": {
+		"tslib": "^2.1.0"
+	},
+	"deprecated": false,
+	"description": "Intl.getCanonicalLocales polyfill",
+	"homepage": "https://github.com/formatjs/formatjs#readme",
+	"keywords": [
+		"intl",
+		"locale",
+		"formatjs",
+		"react-intl",
+		"i18n",
+		"ecma402",
+		"tc39",
+		"getCanonicalLocales"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"name": "@smartface/intl-getcanonicallocales",
+	"peerDependencies": {
+		"@types/node": "14 || 16"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/formatjs/formatjs.git"
+	},
+	"types": "index.d.ts",
+	"version": "1.8.0"
 }

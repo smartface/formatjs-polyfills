@@ -1,60 +1,60 @@
 {
-  "_from": "@formatjs/intl-locale@^2.4.41",
-  "_id": "@formatjs/intl-locale@2.4.41",
-  "_inBundle": false,
-  "_integrity": "sha512-FlPNzNpTColtOCcHg37a7P4WrDLCXIKtovRhA0mG7B/hCMn/FY+P2MwpQXVxgQXk6rje7a8Qv4IAcwnUcY+dIg==",
-  "_location": "/@formatjs/intl-locale",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "@formatjs/intl-locale@^2.4.41",
-    "name": "@formatjs/intl-locale",
-    "escapedName": "@formatjs%2fintl-locale",
-    "scope": "@formatjs",
-    "rawSpec": "^2.4.41",
-    "saveSpec": null,
-    "fetchSpec": "^2.4.41"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/@formatjs/intl-locale/-/intl-locale-2.4.41.tgz",
-  "_shasum": "c2597392b130a7589299e7c76b0731b62829680d",
-  "_spec": "@formatjs/intl-locale@^2.4.41",
-  "_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
-  "author": {
-    "name": "Long Ho",
-    "email": "holevietlong@gmail.com"
-  },
-  "bugs": {
-    "url": "https://github.com/formatjs/formatjs/issues"
-  },
-  "bundleDependencies": false,
-  "dependencies": {
-    "@formatjs/ecma402-abstract": "1.11.0",
-    "@formatjs/intl-getcanonicallocales": "1.8.0",
-    "tslib": "^2.1.0"
-  },
-  "deprecated": false,
-  "description": "Intl.Locale polyfill",
-  "homepage": "https://github.com/formatjs/formatjs#readme",
-  "keywords": [
-    "intl",
-    "locale",
-    "formatjs",
-    "react-intl",
-    "i18n",
-    "ecma402",
-    "tc39"
-  ],
-  "license": "MIT",
-  "main": "index.js",
-  "name": "@formatjs/intl-locale",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/formatjs/formatjs.git"
-  },
-  "types": "index.d.ts",
-  "version": "2.4.41"
+	"_from": "@smartface/intl-locale@^2.4.41",
+	"_id": "@smartface/intl-locale@2.4.41",
+	"_inBundle": false,
+	"_integrity": "sha512-FlPNzNpTColtOCcHg37a7P4WrDLCXIKtovRhA0mG7B/hCMn/FY+P2MwpQXVxgQXk6rje7a8Qv4IAcwnUcY+dIg==",
+	"_location": "/@smartface/intl-locale",
+	"_phantomChildren": {},
+	"_requested": {
+		"type": "range",
+		"registry": true,
+		"raw": "@smartface/intl-locale@^2.4.41",
+		"name": "@smartface/intl-locale",
+		"escapedName": "@smartface%2fintl-locale",
+		"scope": "@smartface",
+		"rawSpec": "^2.4.41",
+		"saveSpec": null,
+		"fetchSpec": "^2.4.41"
+	},
+	"_requiredBy": [
+		"/"
+	],
+	"_resolved": "https://registry.npmjs.org/@smartface/intl-locale/-/intl-locale-2.4.41.tgz",
+	"_shasum": "c2597392b130a7589299e7c76b0731b62829680d",
+	"_spec": "@smartface/intl-locale@^2.4.41",
+	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
+	"author": {
+		"name": "Long Ho",
+		"email": "holevietlong@gmail.com"
+	},
+	"bugs": {
+		"url": "https://github.com/formatjs/formatjs/issues"
+	},
+	"bundleDependencies": false,
+	"dependencies": {
+		"@smartface/ecma402-abstract": "1.11.0",
+		"@smartface/intl-getcanonicallocales": "1.8.0",
+		"tslib": "^2.1.0"
+	},
+	"deprecated": false,
+	"description": "Intl.Locale polyfill",
+	"homepage": "https://github.com/formatjs/formatjs#readme",
+	"keywords": [
+		"intl",
+		"locale",
+		"formatjs",
+		"react-intl",
+		"i18n",
+		"ecma402",
+		"tc39"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"name": "@smartface/intl-locale",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/formatjs/formatjs.git"
+	},
+	"types": "index.d.ts",
+	"version": "2.4.41"
 }

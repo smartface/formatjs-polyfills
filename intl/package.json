@@ -1,77 +1,77 @@
 {
-  "_from": "@formatjs/intl@^1.17.0",
-  "_id": "@formatjs/intl@1.18.0",
-  "_inBundle": false,
-  "_integrity": "sha512-qPdfj4sjzQiLyY154JM0ktQVYc7spksV3Ak8glgzAz7IG/xC3JOBKYrQzV3cGrUeN1+cG/dEzxLMYkvjqoNNUA==",
-  "_location": "/@formatjs/intl",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "@formatjs/intl@^1.17.0",
-    "name": "@formatjs/intl",
-    "escapedName": "@formatjs%2fintl",
-    "scope": "@formatjs",
-    "rawSpec": "^1.17.0",
-    "saveSpec": null,
-    "fetchSpec": "^1.17.0"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/@formatjs/intl/-/intl-1.18.0.tgz",
-  "_shasum": "8171907009c6a289b454ab2376622b0de29c2372",
-  "_spec": "@formatjs/intl@^1.17.0",
-  "_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
-  "author": {
-    "name": "Long Ho",
-    "email": "holevietlong@gmail.com"
-  },
-  "bugs": {
-    "url": "https://github.com/formatjs/formatjs/issues"
-  },
-  "bundleDependencies": false,
-  "dependencies": {
-    "@formatjs/ecma402-abstract": "1.11.0",
-    "@formatjs/fast-memoize": "1.2.1",
-    "@formatjs/icu-messageformat-parser": "2.0.15",
-    "@formatjs/intl-displaynames": "5.3.0",
-    "@formatjs/intl-listformat": "6.4.0",
-    "intl-messageformat": "9.11.0",
-    "tslib": "^2.1.0"
-  },
-  "deprecated": false,
-  "description": "Internationalize JS apps. This library provides an API to format dates, numbers, and strings, including pluralization and handling translations.",
-  "homepage": "https://formatjs.io",
-  "keywords": [
-    "intl",
-    "i18n",
-    "internationalization",
-    "locale",
-    "localization",
-    "globalization",
-    "react-intl",
-    "format",
-    "formatting",
-    "translate",
-    "translation"
-  ],
-  "license": "MIT",
-  "main": "index.js",
-  "module": "lib/index.js",
-  "name": "@formatjs/intl",
-  "peerDependencies": {
-    "typescript": "^4.5"
-  },
-  "peerDependenciesMeta": {
-    "typescript": {
-      "optional": true
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@github.com/formatjs/formatjs.git"
-  },
-  "sideEffects": false,
-  "version": "1.18.0"
+	"_from": "@smartface/intl@^1.17.0",
+	"_id": "@smartface/intl@1.18.0",
+	"_inBundle": false,
+	"_integrity": "sha512-qPdfj4sjzQiLyY154JM0ktQVYc7spksV3Ak8glgzAz7IG/xC3JOBKYrQzV3cGrUeN1+cG/dEzxLMYkvjqoNNUA==",
+	"_location": "/@smartface/intl",
+	"_phantomChildren": {},
+	"_requested": {
+		"type": "range",
+		"registry": true,
+		"raw": "@smartface/intl@^1.17.0",
+		"name": "@smartface/intl",
+		"escapedName": "@smartface%2fintl",
+		"scope": "@smartface",
+		"rawSpec": "^1.17.0",
+		"saveSpec": null,
+		"fetchSpec": "^1.17.0"
+	},
+	"_requiredBy": [
+		"/"
+	],
+	"_resolved": "https://registry.npmjs.org/@smartface/intl/-/intl-1.18.0.tgz",
+	"_shasum": "8171907009c6a289b454ab2376622b0de29c2372",
+	"_spec": "@smartface/intl@^1.17.0",
+	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
+	"author": {
+		"name": "Long Ho",
+		"email": "holevietlong@gmail.com"
+	},
+	"bugs": {
+		"url": "https://github.com/formatjs/formatjs/issues"
+	},
+	"bundleDependencies": false,
+	"dependencies": {
+		"@smartface/ecma402-abstract": "1.11.0",
+		"@smartface/fast-memoize": "1.2.1",
+		"@smartface/icu-messageformat-parser": "2.0.15",
+		"@smartface/intl-displaynames": "5.3.0",
+		"@smartface/intl-listformat": "6.4.0",
+		"intl-messageformat": "9.11.0",
+		"tslib": "^2.1.0"
+	},
+	"deprecated": false,
+	"description": "Internationalize JS apps. This library provides an API to format dates, numbers, and strings, including pluralization and handling translations.",
+	"homepage": "https://formatjs.io",
+	"keywords": [
+		"intl",
+		"i18n",
+		"internationalization",
+		"locale",
+		"localization",
+		"globalization",
+		"react-intl",
+		"format",
+		"formatting",
+		"translate",
+		"translation"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"module": "lib/index.js",
+	"name": "@smartface/intl",
+	"peerDependencies": {
+		"typescript": "^4.5"
+	},
+	"peerDependenciesMeta": {
+		"typescript": {
+			"optional": true
+		}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/formatjs/formatjs.git"
+	},
+	"sideEffects": false,
+	"version": "1.18.0"
 }
