@@ -1,0 +1,58 @@
+{
+  "_from": "@formatjs/intl-datetimeformat@^4.2.6",
+  "_id": "@formatjs/intl-datetimeformat@4.3.0",
+  "_inBundle": false,
+  "_integrity": "sha512-bdFVUd2LdiBorJwdJQ17QYtB1xubLt2Z91jM4yYDAQW8UgCQfVT72J88ah3xHg+1yd0OmqUvrV26zcwJdDHFiw==",
+  "_location": "/@formatjs/intl-datetimeformat",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@formatjs/intl-datetimeformat@^4.2.6",
+    "name": "@formatjs/intl-datetimeformat",
+    "escapedName": "@formatjs%2fintl-datetimeformat",
+    "scope": "@formatjs",
+    "rawSpec": "^4.2.6",
+    "saveSpec": null,
+    "fetchSpec": "^4.2.6"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@formatjs/intl-datetimeformat/-/intl-datetimeformat-4.3.0.tgz",
+  "_shasum": "e82158adc19aee47c0c605c1b35d767aec97856d",
+  "_spec": "@formatjs/intl-datetimeformat@^4.2.6",
+  "_where": "C:\\Programming\\helloworld-boilerplate\\scripts",
+  "author": {
+    "name": "Long Ho",
+    "email": "holevietlong@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/formatjs/formatjs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@formatjs/ecma402-abstract": "1.11.0",
+    "@formatjs/intl-localematcher": "0.2.21",
+    "tslib": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "Intl.DateTimeFormat polyfill",
+  "homepage": "https://github.com/formatjs/formatjs#readme",
+  "keywords": [
+    "i18n",
+    "intl",
+    "polyfill",
+    "datetimeformat",
+    "formatjs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@formatjs/intl-datetimeformat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formatjs/formatjs.git"
+  },
+  "types": "index.d.ts",
+  "version": "4.3.0"
+}
