@@ -1,28 +1,4 @@
 {
-	"_from": "@smartface/intl-listformat@6.4.0",
-	"_id": "@smartface/intl-listformat@6.4.0",
-	"_inBundle": false,
-	"_integrity": "sha512-QUmvXaQFSiEIuU1i/Dk3MT23D+ClDrJFkqQVufjQqbSm/wZ+CPvG7/eua1eFfLkz0wMJS9yBxIXf7M/ynxtltw==",
-	"_location": "/@smartface/intl-listformat",
-	"_phantomChildren": {},
-	"_requested": {
-		"type": "version",
-		"registry": true,
-		"raw": "@smartface/intl-listformat@6.4.0",
-		"name": "@smartface/intl-listformat",
-		"escapedName": "@smartface%2fintl-listformat",
-		"scope": "@smartface",
-		"rawSpec": "6.4.0",
-		"saveSpec": null,
-		"fetchSpec": "6.4.0"
-	},
-	"_requiredBy": [
-		"/@smartface/intl"
-	],
-	"_resolved": "https://registry.npmjs.org/@smartface/intl-listformat/-/intl-listformat-6.4.0.tgz",
-	"_shasum": "0499f8262e7e83854481bdc319b5b2a1d2c64f7e",
-	"_spec": "@smartface/intl-listformat@6.4.0",
-	"_where": "C:\\Programming\\helloworld-boilerplate\\scripts\\node_modules\\@smartface\\intl",
 	"author": {
 		"name": "Long Ho",
 		"email": "holevietlong@gmail.com"
