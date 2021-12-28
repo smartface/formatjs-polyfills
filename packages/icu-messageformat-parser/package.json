@@ -1,0 +1,25 @@
+{
+	"bugs": {
+		"url": "https://github.com/formatjs/formatjs/issues"
+	},
+	"bundleDependencies": false,
+	"dependencies": {
+		"@smartface/ecma402-abstract": "1.11.0",
+		"@smartface/icu-skeleton-parser": "1.3.2",
+		"tslib": "^2.1.0"
+	},
+	"deprecated": false,
+	"description": "Hand-written ICU MessageFormat parser with compatible output as [`intl-messageformat-parser`](https://www.npmjs.com/package/intl-messageformat-parser) but 6 - 10 times as fast.",
+	"homepage": "https://github.com/formatjs/formatjs#readme",
+	"license": "MIT",
+	"main": "index.js",
+	"module": "lib/index.js",
+	"name": "@smartface/formatjs-icu-messageformat-parser",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/formatjs/formatjs.git",
+		"directory": "packages/icu-messageformat-parser"
+	},
+	"types": "index.d.ts",
+	"version": "2.0.15"
+}

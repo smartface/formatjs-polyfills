@@ -1,0 +1,34 @@
+{
+	"author": {
+		"name": "Long Ho",
+		"email": "holevietlong@gmail.com"
+	},
+	"bugs": {
+		"url": "https://github.com/formatjs/formatjs/issues"
+	},
+	"bundleDependencies": false,
+	"dependencies": {
+		"@smartface/ecma402-abstract": "1.11.0",
+		"@smartface/intl-localematcher": "0.2.21",
+		"tslib": "^2.1.0"
+	},
+	"deprecated": false,
+	"description": "Intl.DateTimeFormat polyfill",
+	"homepage": "https://github.com/formatjs/formatjs#readme",
+	"keywords": [
+		"i18n",
+		"intl",
+		"polyfill",
+		"datetimeformat",
+		"formatjs"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"name": "@smartface/formatjs-intl-datetimeformat",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/formatjs/formatjs.git"
+	},
+	"types": "index.d.ts",
+	"version": "4.3.0"
+}

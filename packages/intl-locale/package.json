@@ -1,0 +1,36 @@
+{
+	"author": {
+		"name": "Long Ho",
+		"email": "holevietlong@gmail.com"
+	},
+	"bugs": {
+		"url": "https://github.com/formatjs/formatjs/issues"
+	},
+	"bundleDependencies": false,
+	"dependencies": {
+		"@smartface/ecma402-abstract": "1.11.0",
+		"@smartface/intl-getcanonicallocales": "1.8.0",
+		"tslib": "^2.1.0"
+	},
+	"deprecated": false,
+	"description": "Intl.Locale polyfill",
+	"homepage": "https://github.com/formatjs/formatjs#readme",
+	"keywords": [
+		"intl",
+		"locale",
+		"formatjs",
+		"react-intl",
+		"i18n",
+		"ecma402",
+		"tc39"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"name": "@smartface/formatjs-intl-locale",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/formatjs/formatjs.git"
+	},
+	"types": "index.d.ts",
+	"version": "2.4.41"
+}

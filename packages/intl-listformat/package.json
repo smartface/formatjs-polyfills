@@ -1,0 +1,36 @@
+{
+	"author": {
+		"name": "Long Ho",
+		"email": "holevietlong@gmail.com"
+	},
+	"bugs": {
+		"url": "https://github.com/formatjs/formatjs/issues"
+	},
+	"bundleDependencies": false,
+	"dependencies": {
+		"@smartface/ecma402-abstract": "1.11.0",
+		"@smartface/intl-localematcher": "0.2.21",
+		"tslib": "^2.1.0"
+	},
+	"deprecated": false,
+	"description": "Formats JS list in a i18n-safe way",
+	"gitHead": "a7842673d8ad205171ad7c8cb8bb2f318b427c0c",
+	"homepage": "https://github.com/formatjs/formatjs",
+	"keywords": [
+		"intl",
+		"i18n",
+		"list",
+		"format",
+		"formatjs",
+		"listformat"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"name": "@smartface/formatjs-intl-listformat",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/formatjs/formatjs.git"
+	},
+	"types": "index.d.ts",
+	"version": "6.4.0"
+}
