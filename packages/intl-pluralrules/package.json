@@ -26,7 +26,7 @@
 	],
 	"license": "MIT",
 	"main": "index.js",
-	"name": "@smartface/formatjs-intl-pluralrules",
+	"name": "@smartface/intl-pluralrules",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/formatjs/formatjs.git"

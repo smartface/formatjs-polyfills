@@ -35,7 +35,7 @@
 	"license": "MIT",
 	"main": "index.js",
 	"module": "lib/index.js",
-	"name": "@smartface/formatjs-intl",
+	"name": "@smartface/intl",
 	"peerDependencies": {
 		"typescript": "^4.5"
 	},

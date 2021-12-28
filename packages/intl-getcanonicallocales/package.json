@@ -25,7 +25,7 @@
 	],
 	"license": "MIT",
 	"main": "index.js",
-	"name": "@smartface/formatjs-intl-getcanonicallocales",
+	"name": "@smartface/intl-getcanonicallocales",
 	"peerDependencies": {
 		"@types/node": "14 || 16"
 	},

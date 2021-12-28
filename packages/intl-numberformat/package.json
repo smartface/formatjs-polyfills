@@ -31,7 +31,7 @@
 	],
 	"license": "MIT",
 	"main": "index.js",
-	"name": "@smartface/formatjs-intl-numberformat",
+	"name": "@smartface/intl-numberformat",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/formatjs/formatjs.git"

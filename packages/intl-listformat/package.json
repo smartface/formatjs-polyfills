@@ -26,7 +26,7 @@
 	],
 	"license": "MIT",
 	"main": "index.js",
-	"name": "@smartface/formatjs-intl-listformat",
+	"name": "@smartface/intl-listformat",
 	"repository": {
 		"type": "git",
 		"url": "git+ssh://git@github.com/formatjs/formatjs.git"

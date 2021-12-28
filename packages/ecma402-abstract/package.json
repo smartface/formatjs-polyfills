@@ -28,7 +28,7 @@
 	"license": "MIT",
 	"main": "index.js",
 	"module": "lib/index.js",
-	"name": "@smartface/formatjs-ecma402-abstract",
+	"name": "@smartface/ecma402-abstract",
 	"repository": {
 		"type": "git",
 		"url": "git+ssh://git@github.com/formatjs/formatjs.git"

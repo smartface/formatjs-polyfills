@@ -22,7 +22,7 @@
 	"license": "MIT",
 	"main": "index.js",
 	"module": "lib/index.js",
-	"name": "@smartface/formatjs-fast-memoize",
+	"name": "@smartface/fast-memoize",
 	"repository": {
 		"type": "git",
 		"url": "git+ssh://git@github.com/formatjs/formatjs.git"

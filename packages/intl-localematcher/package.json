@@ -24,7 +24,7 @@
 	],
 	"license": "MIT",
 	"main": "index.js",
-	"name": "@smartface/formatjs-intl-localematcher",
+	"name": "@smartface/intl-localematcher",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/formatjs/formatjs.git"

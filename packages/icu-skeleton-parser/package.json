@@ -13,7 +13,7 @@
 	"license": "MIT",
 	"main": "index.js",
 	"module": "lib/index.js",
-	"name": "@smartface/formatjs-icu-skeleton-parser",
+	"name": "@smartface/icu-skeleton-parser",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/formatjs/formatjs.git",
