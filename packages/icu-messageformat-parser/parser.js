@@ -6,7 +6,7 @@ var tslib_1 = require("tslib");
 var error_1 = require("./error");
 var types_1 = require("./types");
 var regex_generated_1 = require("./regex.generated");
-var icu_skeleton_parser_1 = require("@formatjs/icu-skeleton-parser");
+var icu_skeleton_parser_1 = require("@smartface/formatjs-icu-skeleton-parser");
 var SPACE_SEPARATOR_START_REGEX = new RegExp("^".concat(regex_generated_1.SPACE_SEPARATOR_REGEX.source, "*"));
 var SPACE_SEPARATOR_END_REGEX = new RegExp("".concat(regex_generated_1.SPACE_SEPARATOR_REGEX.source, "*$"));
 function createLocation(start, end) {
